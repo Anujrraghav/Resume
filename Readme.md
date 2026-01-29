@@ -1,9 +1,8 @@
 ## output screenshot:
-- [Resume 1](Resume1.md) - First version of the resume
+- [Resume 1](assets/resume1.png) 
 
 
-- [Resume 2](Resume2.md) - Second version of the resume
-
+- [Resume 2](assets/resume2.png) 
 ## �📚 What I Learned
 
 In this project, I learned about:
