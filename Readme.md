@@ -1,9 +1,7 @@
 ## output screenshot:
-- [Resume 1](assets/resume1.png) 
+- [Resume 1](assets/opresume.jpeg) 
 
 
-- [Resume 2](assets/resume2.png) 
-## �📚 What I Learned
 
 In this project, I learned about:
 
